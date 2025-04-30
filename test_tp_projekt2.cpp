@@ -1,3 +1,10 @@
+/*
+Damian Rutkowski 203304
+Aleksander Stachurski 207394
+
+Plik z testami itp.
+*/
+
 #include "klasy.hpp"
 #include <cassert>
 #include <iostream>

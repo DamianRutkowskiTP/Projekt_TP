@@ -1,6 +1,12 @@
+/*
+Damian Rutkowski 203304
+Aleksander Stachurski 207394
+
+Plik z klasami, funkcjami, wektorami itp.
+*/
+
 #ifndef GRA_H
 #define GRA_H
-
 #include <iostream>
 #include <vector>
 #include <queue>
