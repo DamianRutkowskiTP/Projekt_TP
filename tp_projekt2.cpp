@@ -1,11 +1,11 @@
-﻿#include "klasy.h"
+﻿#include "klasy.hpp"
 int main() {
-    setlocale(LC_ALL, "Polish");
+    setlocale(LC_ALL, "pl_PL.UTF-8"); //polskie znaki
 
-    Gra gra;
-
-    gra.przygotujGre();
-    gra.wyswietlRozdanie();
-    gra.rozpocznijGre();
+    Gra gra; // Obiekt gry
+    
+    gra.przygotujGre();      // Przygotowanie talii
+    gra.rozpocznijGre();     // Start rozgrywki
+    
     return 0;
 }
