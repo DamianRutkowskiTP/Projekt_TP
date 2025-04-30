@@ -1,3 +1,5 @@
 ﻿  tp_projekt2.cpp
-C:\Users\Damian\source\repos\tp_projekt2\tp_projekt2\tp_projekt2.cpp(42,19): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Damian\source\repos\tp_projekt2\tp_projekt2\klasy.h(57,19): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  (kompilowanie pliku źródłowego „tp_projekt2.cpp”)
+  
   tp_projekt2.vcxproj -> C:\Users\Damian\source\repos\tp_projekt2\x64\Debug\tp_projekt2.exe
