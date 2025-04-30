@@ -1,4 +1,0 @@
-C:/Users/Damian/source/repos/tp_projekt2/tp_projekt2/build/CMakeFiles/wojna.dir
-C:/Users/Damian/source/repos/tp_projekt2/tp_projekt2/build/CMakeFiles/tests.dir
-C:/Users/Damian/source/repos/tp_projekt2/tp_projekt2/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Damian/source/repos/tp_projekt2/tp_projekt2/build/CMakeFiles/ZERO_CHECK.dir
