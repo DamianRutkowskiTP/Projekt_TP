@@ -266,6 +266,8 @@ public:
         else {
             cout << "Zwycięzca: Gracz 2" << endl;
         }
+        cout << "\nNaciśnij enter aby zakończyć program..." << endl;
+        cin.get();
     }
 };
 #endif

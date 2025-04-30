@@ -12,6 +12,5 @@ int main() {
     
     gra.przygotujGre();      // Przygotowanie talii
     gra.rozpocznijGre();     // Start rozgrywki
-    
     return 0;
 }

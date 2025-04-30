@@ -2,7 +2,7 @@
 Damian Rutkowski 203304
 Aleksander Stachurski 207394
 
-Plik z testami itp.
+Plik z testami
 */
 
 #include "klasy.hpp"
